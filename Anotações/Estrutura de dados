@@ -1,0 +1,18 @@
+Estrutura de dados
+
+- Listas
+	- Sequencia de itens separados por virgula, e que estão contidos por colchetes []
+	- É possivel declarar uma lista vazia, ou com varios tipos de dados
+
+- Dicionários
+	- Sequencia de itens representado pelo modelo Chave -> Valor
+
+- Tuplas
+	- Parecido com a lista so que contido por parenteses ()
+	- A tupla também não permite edição com funções como append
+
+- Conjuntos
+	- Também chamado de Set
+	- É contido por chaves {}
+	- Nessa estrutura os elementos não se repetem, ao usar a função len(), por exemplo, no conjunto {5, 90, 30, 5} o resultado será 3 pois há dois numeros 5
+

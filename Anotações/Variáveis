@@ -1,0 +1,23 @@
+Para declarar uma variável basta digitar o nome da mesma seguido de = para associar seu valor
+
+Convenções para criação de variáveis:
+
+- Começa com letra minuscula
+- Nome pode ser composto por letras, algarismos e _
+- não utilizar palavras reservadas do python como:
+	- if
+	- for
+	- from 
+	- else
+	- e etc...
+
+Ao usar um nome reservado o interpretador acusa erro de syntax
+
+Tipos de variáveis:
+- Inteiros
+- Decimais (Float)
+- Complexo (dado pelo uso da letra j)
+- String
+- Booleano (True e False)
+
+Para guia de boas práticas procurar o PEP8

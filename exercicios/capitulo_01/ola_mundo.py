@@ -1,0 +1,1 @@
+print("Olá mundo, caraio!") # Teste de primeiro programa de novo

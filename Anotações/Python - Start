@@ -1,0 +1,14 @@
+Python
+
+Criada em 1990 por Guido van Rossum, esse nome é uma referencia a Flying circus de Monty Python
+
+Ao digitar o comando python3 e depois o comando import this o terminal irá expor as 20 regras do Zen Python
+
+Para criar ambientes virtuais e evitar conflitos durante desenvolvimento é importante utilizar o comando:
+
+Criar venv:
+python -m venv /path/to/new/virtual/environment
+
+Ativar venv:
+<venv>\Scripts\activate.bat
+
